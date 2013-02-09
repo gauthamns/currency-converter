@@ -1,1 +1,1 @@
-This is the app that was written while RVCE workshop. Just uploaded whatever was written during the time. Feel free to clone, modify, enhance and send me a pull request. RVCE ppl, lets make this the best currency app in the market.
+This is the app that was written during RVCE workshop. Just uploaded whatever was written during the time. Feel free to clone, modify, enhance and send me a pull request. RVCE ppl, lets make this the best currency app in the market.
